@@ -1,2 +1,2 @@
-const heading = document.querySelectorAll("h2");
+const heading = document.querySelector("h2");
 console.log(heading);
